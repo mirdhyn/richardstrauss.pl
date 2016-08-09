@@ -14,6 +14,6 @@ git config user.name "Travis CI"
 git config user.email "mirdhyn@gmail.com"
 
 git add .
-git commit -m "Deploy to GitHub Pages"
+git commit -m "Deploy to GitHub Pages" || true
 
 git push --force --quiet "https://${GH_TOKEN}@github.com/mirdhyn/richardstaruss.pl.git" master:gh-pages > /dev/null 2>&1
