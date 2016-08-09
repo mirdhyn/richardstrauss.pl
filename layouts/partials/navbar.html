@@ -1,0 +1,13 @@
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav navbar-right">
+        {{ range (index .Site.Taxonomies.menu .Params.lang).Pages }}
+        <li><a href="{{ .Permalink  }}">{{ .LinkTitle }}</a></li>
+        {{end}} {{ if (eq .Params.lang "pl") }}
+        <li><a href="/en/home"><span class="lang-sm" lang="en"></span></a></li>
+        {{ else }}
+        <li><a href="/pl/home"><span class="lang-sm" lang="pl"></span></a></li>
+        {{ end }}
+    </ul>
+</div>
+<!-- /.navbar-collapse -->

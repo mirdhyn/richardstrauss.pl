@@ -1,0 +1,17 @@
+baseurl = "http://example.com"
+title = "Stowarzyszenie im. Richarda Straussa"
+
+[taxonomies]
+tag = "tags"
+group = "groups"
+menu = "menu"
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/humboldtux"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/humboldtux"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/FACEBOOKHANDLE"
