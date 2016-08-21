@@ -14,6 +14,3 @@ The organization consists of people having a rich experience in media, culture a
 
 Richard Strauss Society’s activity is supported by its friends from Vienna, Prague, Berlin, Budapest, Rome, London, New York and Warsaw.
 
-## History
-
-Sequi eum impedit distinctio facilis repudiandae provident iure illo quia autem optio. Ea, facilis, possimus dolor nobis explicabo recusandae numquam ducimus minus eum totam odio architecto nesciunt accusamus expedita natus.
