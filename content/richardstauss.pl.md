@@ -1,3 +1,4 @@
++++
 title = "Richard Strauss"
 linktitle = "Richard Strauss"
 url = "/richardstrauss"
@@ -32,5 +33,5 @@ Zainteresowanie publiczności miejscowej twórczością Richarda Straussa musia�
 Świadectwem zainteresowania melomanów wrocławskich tą twórczością były wznowienia niektórych spośród wymienionych oper. Kompozytor najwidoczniej bardzo cenił działalność teatru wrocławskiego skoro postanowił, aby niemiecka prapremiera 2-aktowego baletu-pantomimySchlagobers odbyła się pod jego batutą na deskach wrocławskiego teatru.
 Richard Strauss stosunkowo często gościł we Wrocławiu nie tylko jako kapelmistrz operowy, lecz również jako dyrygent orkiestry symfonicznej. Warto wspomnieć koncert, jaki odbył się w kwietniu 1925 roku w wielkiej sali Wrocławskiego Domu Koncertowego dysponującej po przebudowie 1478 miejscami siedzącymi. Pod inspirującą batutą kompozytora wykonano wówczas programową Symfonię alpejską oraz poemat symfoniczny Śmierć i wyzwolenie. Według słów recenzenta publiczność z entuzjazmem oklaskiwała kompozytora, wyrażając w ten sposób swój podziw i przywiązanie.
 Wrocławski Teatr Miejski, od 1938 roku jako Teatr Operowy, legitymował się bogatą historią i ambitnym repertuarem, a nade wszystko szczycił się licznymi inscenizacjami dzieł operowych Richarda Straussa, szczególną sympatią kompozytora i jego częstymi gościnnymi występami.
-                                                                                               
+
                                                                                                Maria Zduniak
