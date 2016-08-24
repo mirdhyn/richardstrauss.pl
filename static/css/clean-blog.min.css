@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Copperplate';
+  src: url('../fonts/copperplate.eot');
+  src: url('../fonts/copperplate.eot?#iefix') format('embedded-opentype'), url('../fonts/copperplate.woff') format('woff'), url('../fonts/copperplate.ttf') format('truetype'), url('../fonts/copperplate.svg#copperplate') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
 body {
     font-family: Lora, 'Times New Roman', serif;
     font-size: 20px;
@@ -10,7 +18,11 @@ p {
 p a {
     text-decoration: underline
 }
-h1,
+h1{
+  font-family: "Copperplate", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+
 h2,
 h3,
 h4,
@@ -49,6 +61,7 @@ hr.small {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 .navbar-custom .navbar-brand {
+    font-family: 'Copperplate', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
     font-weight: 800
 }
 .navbar-custom .nav li a {
