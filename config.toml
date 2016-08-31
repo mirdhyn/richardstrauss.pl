@@ -6,12 +6,5 @@ tag = "tags"
 group = "groups"
 menu = "menu"
 
-[[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/humboldtux"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/humboldtux"
-[[params.social]]
-  title = "facebook"
-  url = "https://www.facebook.com/FACEBOOKHANDLE"
+[params]
+email = "mateusz.wisniewski@gazeta.pl"
