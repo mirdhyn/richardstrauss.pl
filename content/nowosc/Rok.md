@@ -1,6 +1,6 @@
 +++
 title = "Rok Richarda Straussa"
-date = "2014-09-21"
+date = "2014-06-11"
 
 lang = "pl"
 groups = ["nowosc"]
