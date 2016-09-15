@@ -2,8 +2,8 @@
 title = "Stowarzyszenie w Czechach"
 date = "2014-19-21"
 
-lang = "pl"
-groups = ["nowosc"]
+lang = "en"
+groups = ["news"]
 +++
 
 ## The Society in Dresden
