@@ -1,6 +1,6 @@
 +++
 title = "Stowarzyszenie w Czechach"
-date = "2014-19-21"
+date = "2014-09-21"
 
 lang = "en"
 groups = ["news"]
