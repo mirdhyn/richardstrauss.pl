@@ -2,8 +2,8 @@
 title = "Stowarzyszenie w Czechach"
 date = "2014-06-19"
 
-lang = "pl"
-groups = ["nowosc"]
+lang = "en"
+groups = ["news"]
 +++
 
 ## Richard Strauss’s Jubilee
