@@ -2,8 +2,8 @@
 title = "Stowarzyszenie w Czechach"
 date = "2014-10-20"
 
-lang = "pl"
-groups = ["nowosc"]
+lang = "en"
+groups = ["news"]
 +++
 
 ## Salome in Prague
