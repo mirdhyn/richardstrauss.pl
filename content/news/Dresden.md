@@ -1,5 +1,5 @@
 +++
-title = "Stowarzyszenie w Czechach"
+title = "The Society in Dresden"
 date = "2014-09-21"
 
 lang = "en"
