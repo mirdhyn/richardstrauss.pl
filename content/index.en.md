@@ -8,8 +8,10 @@ menu = ["en"]
 menu_weight = 0
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum ex deleniti ut tenetur amet accusantium dolores nam provident! Ipsum, dicta voluptatum quas architecto nostrum sapiente eos commodi numquam accusantium reprehenderit.
+Richard Strauss Society Poland is the first and the only Polish society which shows interests in this composer’s works. It was founded in Wrocław in 2014 – Richard Strauss 150th anniversary. We would also like to present Strauss’ contemporaries – artists who still remain unknown to Polish audience, and discover and make popular the music of young composers and forgotten ones.
 
-Doloremque, veritatis qui impedit expedita quas distinctio temporibus repellendus dicta debitis iure molestias recusandae cum facere natus esse saepe inventore beatae ipsum soluta voluptas in quaerat nam culpa id autem!
+The organization consists of people having a rich experience in media, culture and science sector. What is important for us is the artistic honesty.
 
-Sequi eum impedit distinctio facilis repudiandae provident iure illo quia autem optio. Ea, facilis, possimus dolor nobis explicabo recusandae numquam ducimus minus eum totam odio architecto nesciunt accusamus expedita natus.
+Richard Strauss Society’s activity is supported by its friends from Vienna, Prague, Berlin, Budapest, Rome, London, New York and Warsaw.
+
+You are warmly welcomed to join us!
