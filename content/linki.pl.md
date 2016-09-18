@@ -20,7 +20,3 @@ menu_weight = 9
 - [Richard Strauss Festival](http://www.richard-strauss-festival.de/rsi)
 - [Richard Strauss Society – Wielka Brytania](http://www.richard-strauss-society.co.uk)
 - [Materiały audio i video](http://www.medici.tv/#!/richard-strauss)
-
-![Logo Title Text 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-
-#### <i class="icon-file"></i> Create a document
