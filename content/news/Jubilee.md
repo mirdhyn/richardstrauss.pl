@@ -1,5 +1,5 @@
 +++
-title = "Stowarzyszenie w Czechach"
+title = "Richard Strauss’s Jubilee"
 date = "2014-06-19"
 
 lang = "en"
