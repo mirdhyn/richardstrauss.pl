@@ -1,5 +1,5 @@
 +++
-title = "Stowarzyszenie w Czechach"
+title = "Salome in Prague"
 date = "2014-10-20"
 
 lang = "en"
