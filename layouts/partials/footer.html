@@ -1,12 +1,11 @@
 <hr>
-<!-- Footer -->
 <footer>
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 				<ul class="list-inline text-center">
 					<li>
-						<a href="mailto:{{ .Site.Params.email }}">
+						<a href="#contactModal" data-toggle="modal">
 							<span class="fa-stack fa-lg">
 											<i class="fa fa-circle fa-stack-2x"></i>
 											<i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
@@ -24,9 +23,65 @@
 					</li>
 					{{ end }}
 				</ul>
-				<p class="copyright text-muted">{{ .Site.Copyright }}</p>
+				<div id="contactModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+								<h3 id="contactModalLabel">Contact</h3>
+							</div>
+							<div class="modal-body">
+								<form name="contact" class="form-horizontal" id="contact_form" netlify netlify-honeypot="text">
+									<div class="form-group">
+										<label class="col-md-3 control-label">Name</label>
+										<div class="col-md-8 inputGroupContainer">
+											<div class="input-group">
+												<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+												<input name="name" placeholder="Name" class="form-control" type="text">
+											</div>
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-md-3 control-label">E-Mail</label>
+										<div class="col-md-8 inputGroupContainer">
+											<div class="input-group">
+												<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+												<input name="email" placeholder="E-Mail Address" class="form-control" type="text">
+											</div>
+										</div>
+									</div>
+									<p class="hidden">
+										<label>Text:
+											<input name="text">
+										</label>
+									</p>
+									<div class="form-group">
+										<label class="col-md-3 control-label">Message</label>
+										<div class="col-md-8 inputGroupContainer">
+											<div class="input-group">
+												<span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+												<textarea class="form-control" name="message" placeholder="Message"></textarea>
+											</div>
+										</div>
+									</div>
+									<div class="form-group">
+										<label class="col-md-4 control-label"></label>
+										<div class="col-md-4">
+											<button type="submit" class="btn btn-warning">Send <span class="glyphicon glyphicon-send"></span></button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="alert alert-success alert-dismissible fade in" role="alert">
+					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button><strong>Thank you!</strong> Your message has been successfully sent.
+					<br />We will contact you very soon!</div>
 			</div>
+			<p class="copyright text-muted">{{ .Site.Copyright }}</p>
 		</div>
+	</div>
 	</div>
 </footer>
 
@@ -38,6 +93,21 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ .Site.BaseURL }}/js/clean-blog.js"></script>
+
+<script>
+	$("#contact_form").submit(function(e) {
+		e.preventDefault();
+
+		var $form = $(this);
+		$.post($form.attr("action"), $form.serialize()).then(function() {
+			$("#contactModal").modal('hide');
+			$(".alert").show();
+			setTimeout(function() {
+				$(".alert").alert('close');
+			}, 4000);
+		});
+	});
+</script>
 
 {{ if isset .Site.Params "Ganalytics" }}{{ partial "ga.html" . }}{{ end }}
 

@@ -418,3 +418,12 @@ body {
 .flag-icon-gb {
   background-image: url(../img/gb.svg);
 }
+
+.alert {
+  display: none;
+  width: 40%;
+  position: fixed;
+  left: 10px;
+  bottom: 30px;
+  font-size: 0.8em;
+}
