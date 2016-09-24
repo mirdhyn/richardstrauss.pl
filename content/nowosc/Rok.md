@@ -6,8 +6,6 @@ lang = "pl"
 groups = ["nowosc"]
 +++
 
-## Rok Richarda Straussa
-
 11 czerwca 2014 minęła 150 rocznica urodzin Richarda Straussa. Muzyczny świat przez cały jubileuszowy bieżący rok prezentuje bogaty dorobek kompozytora, organizując festiwale operowe, recitale pieśni czy liczne wykonania symfonii.
 
 Godnych do naśladowania przykładów jest wiele: Opera w Budapeszcie zaprosiła melomanów w maju na festiwal, w którego programie umieszczono wszystkie opery kompozytora wystawione na tej scenie w minionych 30. latach (między innymi: Arabellę, Elektrę, Salome) oraz zaproponowała premierową inscenizację Kobiety bez cienia. Semperoper w Dreźnie w listopadzie br. organizuje święto Straussa, a najważniejszym punktem tego wydarzenia będzie premierowa realizacja Arabelli z udziałem Renee Fleming. Národní Divadlo w Pradze w październiku Rok Richarda Straussa uświetni premierą Salome w reżyserii Mariusza Trelińskiego.
