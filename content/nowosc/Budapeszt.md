@@ -6,7 +6,6 @@ lang = "pl"
 groups = ["nowosc"]
 +++
 
-## Stowarzyszenie w Budapeszcie
 Kolejny projekt Stowarzyszenia im. Richarda Straussa to współpraca z Węgierską Operą Państwową w Budapeszcie, w której 17 maja 2015 miało miejsce wyjątkowe w historii polsko-węgierskich kontaktów operowych wydarzenie: „Faust” Charlesa Gounoda w reżyserii Michała Znanieckiego –  pierwszego Polaka reżyserującego na tej scenie.
 
 Dzięki naszym staraniom premierowy spektakl w stolicy Węgier obejrzało wielu przedstawicieli mediów z Polski i Republiki Czeskiej (m.in. Polskie Radio, „Rzeczpospolita”, „Hudební Rozhledy”, portal OperaPlus oraz portal Maestro), a także kilku członków Stowarzyszenia.
