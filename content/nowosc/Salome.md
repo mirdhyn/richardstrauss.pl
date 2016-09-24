@@ -6,8 +6,6 @@ lang = "pl"
 groups = ["nowosc"]
 +++
 
-## Salome w Pradze
-
 Miło nam poinformować, że czeska publiczność będzie miała okazję bliżej poznać polskie Stowarzyszenie im. Richarda Straussa – informacja o naszej działalności znajduje się w programie premiery „Salome” wydanym przez Národní Divadlo w Pradze – inscenizacji wyjątkowej z kilku powodów…
 
 Jubileuszowy rok 150. urodzin Richarda Straussa dobiega końca. Polska publiczność nieszczególnie mogła go świętować, ponieważ w naszych operach i filharmoniach muzykę wybitnego niemieckiego kompozytora gra się wciąż stosunkowo rzadko (w tym roku usłyszeć mogliśmy m.in. kilka jego symfonii, wznowiona została również „Elektra” w Teatrze Wielkim – Operze Narodowej, a w repertuarze Opery Wrocławskiej pozostaje inscenizacja „Kobiety bez cienia”). Przed nami jeszcze m.in. koncertowe wykonanie „Ariadny na Naksos” w Filharmonii Narodowej pod dyrekcją maestro Jacka Kaspszyka (listopad) czy premiera „Kawalera z różą” we Wrocławiu (grudzień).
