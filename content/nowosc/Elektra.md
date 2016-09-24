@@ -1,5 +1,5 @@
 +++
-title = ""Elektra" w Met i Teatrze Studio" 
+title = "Elektra w Met i Teatrze Studio" 
 date = "2016-03-30"
 
 lang = "pl"
