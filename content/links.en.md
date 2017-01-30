@@ -14,6 +14,7 @@ menu_weight = 9
 - [http://www.polonia-dresden.de/index.html](http://www.polonia-dresden.de/index.html)
 - [http://www.narodni-divadlo.cz](http://www.narodni-divadlo.cz)
 - [http://www.opera.hu](http://www.opera.hu)
+- [http://antonina.campi.spotkaniakultur.com/en](http://antonina.campi.spotkaniakultur.com/en)
 
 ## More on Richard Strauss
 - [Richard Strauss online](http://richardstrauss.org)
