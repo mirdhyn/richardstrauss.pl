@@ -24,11 +24,17 @@ Projekt jest współfinansowany przez Fundację Współpracy Polsko-Niemieckiej,
 Serdecznie zapraszamy!
 
 Warszawa, 11-12 września, Mediateka START – META
+
 Wrocław, 13-14 września 2017, Wrocławskie Centrum Wspierania Organizacji Pozarządowych Sektor 3 
+
 Opole, 15-16 września 2017, Muzeum Śląska Opolskiego
 
 latwytekst.warsztaty@gmail.com
+
 facebook.com/latwytekst
+
 www.fwpn.pl
+
 www.fundacjapzu.pl
+
 www.wroclaw.pl
