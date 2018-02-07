@@ -8,6 +8,11 @@ menu = ["en"]
 menu_weight = 3
 +++
 
+## Projects:
+
+- Zdrój Muzyki - concerts in Kotlina Kłodzka(https://www.facebook.com/polanicazdrojmuzyki/)
+- Leichte Sprache - Plain Language - workshops(https://www.facebook.com/latwytekst)
+
 ## Special events:
 
 - The lecture before ‘Elektra’ Met Live in HD in Teatr Studio (Warsaw, 2016)
