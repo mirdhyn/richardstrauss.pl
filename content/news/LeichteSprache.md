@@ -6,4 +6,4 @@ lang = "en"
 groups = ["news"]
 +++
 
-## The content is available only in Polish. Sorry for inconvenience.
+## Please visit our Facebook to get more info: (https://www.facebook.com/latwytekst)
