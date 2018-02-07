@@ -11,10 +11,11 @@ menu_weight = 3
 ## Projects:
 
 - [Zdrój Muzyki - concerts in Kotlina Kłodzka](https://www.facebook.com/polanicazdrojmuzyki/)
-- Leichte Sprache - Plain Language - workshops(https://www.facebook.com/latwytekst)
+- [Leichte Sprache - Plain Language - workshops](https://www.facebook.com/latwytekst)
 
 ## Special events:
 
+- [International Antonina Campi Vocal Competition](http://www.antonina.campi.spotkaniakultur.com)
 - The lecture before ‘Elektra’ Met Live in HD in Teatr Studio (Warsaw, 2016)
 - The idea of interviews with people of Polish culture in ‘Przegląd’ weekly magazine (Warsaw, 2016)
 - Media support of Charles Gounod’s ‘Faust’ in Hungarian State Opera (Budapest, 2015)
