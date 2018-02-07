@@ -10,6 +10,7 @@ menu_weight = 9
 
 ## Dziękujemy za pomoc i wspacie naszym partnerom i przyjaciołom:
 
+- [http://teatr.polanica.pl](http://www.teatr.polanica.pl)
 - [http://www.maestro.net.pl](http://www.maestro.net.pl)
 - [http://www.polonia-dresden.de/index.html](http://www.polonia-dresden.de/index.html)
 - [http://www.narodni-divadlo.cz](http://www.narodni-divadlo.cz)
