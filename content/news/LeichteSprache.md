@@ -6,4 +6,4 @@ lang = "en"
 groups = ["news"]
 +++
 
-## Please visit our Facebook to get more info: (https://www.facebook.com/latwytekst)
+Please visit our Facebook to get more info: (https://www.facebook.com/latwytekst)
