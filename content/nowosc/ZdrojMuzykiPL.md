@@ -4,6 +4,7 @@ date = "2017-11-11"
 
 lang = "pl"
 groups = ["nowosc"]
+
 +++
 
 Zapraszamy do Polanicy-Zdroju na nowy cykl koncertowy!
