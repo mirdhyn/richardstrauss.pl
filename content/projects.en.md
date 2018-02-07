@@ -15,7 +15,7 @@ menu_weight = 3
 
 ## Special events:
 
-- [International Antonina Campi Vocal Competition](http://www.antonina.campi.spotkaniakultur.com)
+- [International Antonina Campi Vocal Competition](http://www.antonina.campi.spotkaniakultur.com) (Lublin, 2017)
 - The lecture before ‘Elektra’ Met Live in HD in Teatr Studio (Warsaw, 2016)
 - The idea of interviews with people of Polish culture in ‘Przegląd’ weekly magazine (Warsaw, 2016)
 - Media support of Charles Gounod’s ‘Faust’ in Hungarian State Opera (Budapest, 2015)
