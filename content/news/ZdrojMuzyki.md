@@ -1,6 +1,6 @@
 +++
 title = "Zdrój Muzyki - concerts in Kotlina Kłodzka"
-date = "2017-11-11"
+date = "2018-04-07"
 
 lang = "en"
 groups = ["news"]
