@@ -1,5 +1,5 @@
 +++
-title = "Kultuta - pomimo ciemności i ograniczeń" 
+title = "Kultura - pomimo ciemności i ograniczeń" 
 date = "2018-08-31"
 
 lang = "pl"
